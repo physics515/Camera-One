@@ -1,7 +1,7 @@
 # Camera One
 Camera One is my academic thesis for my time as a design major. This project brings together aspects from my former learnings, such as commercial photography, computer science, marketing, and now 2D and 3D drafting. My plans for this project are that it will grow with me as I continue on to study mechanical engineering.
 
-This project is and experiment that I hope will one day bring together the open-source communities of hardware, software, and electrical device creators. My goal is to create a medium-format camera that can support film or digital backs 4"x5" or smaller but not be held to those limitations. Currently I am working on designing the camera platform design, and now have a Packard leaf shutter actuation mechanism defined in `Camera One/Lens and Shutters/Packard Shutter/Shutter Mechanism.md`, along with ongoing 35mm film advancement development. I look forward to your support!
+This project is an experiment that I hope will one day bring together the open-source communities of hardware, software, and electrical device creators. My goal is to create a medium-format camera that can support film or digital backs 4"x5" or smaller but not be held to those limitations. Currently I am working on designing the camera platform design, and now have a Packard leaf shutter actuation mechanism defined in `Camera One/Lens and Shutters/Packard Shutter/Shutter Mechanism.md`, along with ongoing 35mm film advancement development. I look forward to your support!
 
 # Goals
 ## The Initial Design  
