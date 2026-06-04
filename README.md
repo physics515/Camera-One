@@ -12,7 +12,13 @@ Currently this project is being developed in Solidworks using STereoLithography 
 
 To contribute to this project just edit the Solidworks part files (.SLDPRT) save that file to .SLDPRT, .STL and .3MF and submit. As always thank you for contributing!
 
-#Donations
-I am now accepting donations in the for of Bitcoin in order to raise money to begin prototyping and to fuel my caffeine addiction.
+# Promotional Renderings
+These renderings are prepared for promotional materials and can be found in `Branding/Marketing`.
+
+![Camera One Hero Rendering](Branding/Marketing/Promo-Render-Hero.jpg)
+![Camera One Component Rendering](Branding/Marketing/Promo-Render-Components.jpg)
+
+# Donations
+I am now accepting donations in the form of Bitcoin in order to raise money to begin prototyping and to fuel my caffeine addiction.
 
 ##Donate with <img src="https://raw.githubusercontent.com/Creative515/Camera-One/master/Branding/Marketing/Bitcoin_logo.svg.png" alt="Bitcoin" height="20px"/> <br> ![](https://raw.githubusercontent.com/Creative515/Camera-One/master/Branding/Marketing/BitcoinDonationAddress.PNG) <br>Address: 1Ar2b5XdxwueiUwSmsCJUGcsfHGLsdctYV
